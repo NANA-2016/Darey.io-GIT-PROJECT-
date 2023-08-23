@@ -11,5 +11,6 @@ Project 2 of Darey.io git
 1. First item
 2. Second item
 3. Third item
-   
+[visit darey.io]( https://github.com/NANA-2016/Darey.io-GIT-PROJECT-)
+  console.log('welcome to Darey.io-GIT PROJECT')
 
